@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.003';
+our $VERSION = '0.004';
 
 sub new {
   my $class = shift;
@@ -53,7 +53,6 @@ __END__
 Grapheme::Ngram - n-grams of Unicode Extended Grapheme Clusters
 
 =for html
-
 <a href="https://travis-ci.org/wollmers/Grapheme-Ngram"><img src="https://travis-ci.org/wollmers/Grapheme-Ngram.png" alt="Grapheme-Ngram"></a>
 <a href='https://coveralls.io/r/wollmers/Grapheme-Ngram?branch=master'><img src='https://coveralls.io/repos/wollmers/Grapheme-Ngram/badge.png?branch=master' alt='Coverage Status' /></a>
 
